@@ -6,6 +6,7 @@ Journal Papers
 2. [A normalization method for solving the combined economic and emission dispatch problem with meta-heuristic algorithms](https://www.sciencedirect.com/science/article/abs/pii/S0142061513002822)
 3. [A novel metaheuristic for continuous optimization problems: Virus optimization algorithm](https://www.tandfonline.com/doi/abs/10.1080/0305215X.2014.994868)
 4. [A self-adaptive virus optimization algorithm for continuous optimization problems](https://link.springer.com/article/10.1007/s00500-020-04730-0)
+5. [Usage of compressed domain in fast frameworks](https://www.researchgate.net/publication/358137310_Usage_of_compressed_domain_in_fast_frameworks)
 
 
 Conferences
