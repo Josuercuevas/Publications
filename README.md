@@ -1,5 +1,9 @@
 # Publications
 
+Patents
+
+1. Image Search Algorithm: https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2022-508496/239ADE52030EFD8F29F6C308D8565B92E8550B588F61BAE8E9D431D4100612F3/10/ja
+
 Journal Papers
 
 1. [Deep Learning for Infant Cry Recognition](https://www.mdpi.com/1660-4601/19/10/6311/htm)
