@@ -6,12 +6,16 @@ Patents
 
 Journal Papers
 
+
 1. [Deep Learning for Infant Cry Recognition](https://www.mdpi.com/1660-4601/19/10/6311/htm)
-2.  [Usage of compressed domain in fast frameworks](https://www.researchgate.net/publication/358137310_Usage_of_compressed_domain_in_fast_frameworks)
+2. [Usage of compressed domain in fast frameworks](https://www.researchgate.net/publication/358137310_Usage_of_compressed_domain_in_fast_frameworks)
 3. [A self-adaptive virus optimization algorithm for continuous optimization problems](https://link.springer.com/article/10.1007/s00500-020-04730-0)
 4. [An Automatic Multilevel Image Thresholding Using Relative Entropy and Meta-Heuristic Algorithms](https://www.mdpi.com/1099-4300/15/6/2181)
 5. [A normalization method for solving the combined economic and emission dispatch problem with meta-heuristic algorithms](https://www.sciencedirect.com/science/article/abs/pii/S0142061513002822)
 6. [A novel metaheuristic for continuous optimization problems: Virus optimization algorithm](https://www.tandfonline.com/doi/abs/10.1080/0305215X.2014.994868)
+
+Journal Papers under review
+1. [Comprehensive Empirical Evaluation of Deep Learning Approaches for Session-based Recommendation in E-Commerce](https://www.researchgate.net/publication/344878493_Comprehensive_Empirical_Evaluation_of_Deep_Learning_Approaches_for_Session-based_Recommendation_in_E-Commerce)
 
 Citations:
 1. [An Application of the Virus Optimization Algorithm to the Problem of Finding Extremal Binary Self-Dual Codes](https://ui.adsabs.harvard.edu/abs/2021arXiv210307739K/abstract)
