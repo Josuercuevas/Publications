@@ -6,13 +6,13 @@ Patents
 
 Journal Papers
 
-1. [Comprehensive Empirical Evaluation of Deep Learning Approaches for Session-Based Recommendation in E-Commerce](https://www.mdpi.com/1099-4300/24/11/1575)
-1. [Deep Learning for Infant Cry Recognition](https://www.mdpi.com/1660-4601/19/10/6311/htm)
-2. [Usage of compressed domain in fast frameworks](https://www.researchgate.net/publication/358137310_Usage_of_compressed_domain_in_fast_frameworks)
-3. [A self-adaptive virus optimization algorithm for continuous optimization problems](https://link.springer.com/article/10.1007/s00500-020-04730-0)
-4. [An Automatic Multilevel Image Thresholding Using Relative Entropy and Meta-Heuristic Algorithms](https://www.mdpi.com/1099-4300/15/6/2181)
-5. [A normalization method for solving the combined economic and emission dispatch problem with meta-heuristic algorithms](https://www.sciencedirect.com/science/article/abs/pii/S0142061513002822)
-6. [A novel metaheuristic for continuous optimization problems: Virus optimization algorithm](https://www.tandfonline.com/doi/abs/10.1080/0305215X.2014.994868)
+1. [Comprehensive Empirical Evaluation of Deep Learning Approaches for Session-Based Recommendation in E-Commerce](https://www.mdpi.com/1099-4300/24/11/1575) -> 2022
+1. [Deep Learning for Infant Cry Recognition](https://www.mdpi.com/1660-4601/19/10/6311/htm) -> 2022
+2. [Usage of compressed domain in fast frameworks](https://www.researchgate.net/publication/358137310_Usage_of_compressed_domain_in_fast_frameworks) -> 2022
+3. [A self-adaptive virus optimization algorithm for continuous optimization problems](https://link.springer.com/article/10.1007/s00500-020-04730-0) -> 2020
+4. [An Automatic Multilevel Image Thresholding Using Relative Entropy and Meta-Heuristic Algorithms](https://www.mdpi.com/1099-4300/15/6/2181) -> 2013
+5. [A normalization method for solving the combined economic and emission dispatch problem with meta-heuristic algorithms](https://www.sciencedirect.com/science/article/abs/pii/S0142061513002822) -> 2013
+6. [A novel metaheuristic for continuous optimization problems: Virus optimization algorithm](https://www.tandfonline.com/doi/abs/10.1080/0305215X.2014.994868) -> 2013
 
 Journal Papers under review
 1. None
