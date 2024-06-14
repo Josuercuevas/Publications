@@ -1,10 +1,14 @@
 # Publications
 
-Patents
+## Google Scholar
+
+https://scholar.google.com/citations?user=tgxwttEAAAAJ&hl=en&oi=ao
+
+## Patents
 
 1. Image Search Algorithm: https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2022-508496/239ADE52030EFD8F29F6C308D8565B92E8550B588F61BAE8E9D431D4100612F3/10/ja
 
-Journal Papers
+## Journal Papers
 
 1. [Comprehensive Empirical Evaluation of Deep Learning Approaches for Session-Based Recommendation in E-Commerce](https://www.mdpi.com/1099-4300/24/11/1575) -> 2022
 1. [Deep Learning for Infant Cry Recognition](https://www.mdpi.com/1660-4601/19/10/6311/htm) -> 2022
@@ -14,7 +18,7 @@ Journal Papers
 5. [A normalization method for solving the combined economic and emission dispatch problem with meta-heuristic algorithms](https://www.sciencedirect.com/science/article/abs/pii/S0142061513002822) -> 2013
 6. [A novel metaheuristic for continuous optimization problems: Virus optimization algorithm](https://www.tandfonline.com/doi/abs/10.1080/0305215X.2014.994868) -> 2013
 
-Journal Papers under review
+## Journal Papers under review
 1. None
 
 Citations:
@@ -23,7 +27,7 @@ Citations:
 3. [New Extremal Binary Self-Dual Codes of Length 72 from M6(F2)G - Group Matrix Rings by a Hybrid Search Technique Based on a Neighbourhood-Virus Optimisation Algorithm](https://arxiv.org/pdf/2109.06522.pdf)
 4. [An effective multi-objective discrete virus optimization algorithm for flexible job-shop scheduling problem with controllable processing times](https://www.sciencedirect.com/science/article/abs/pii/S0360835216304983?via%3Dihub)
 
-Conferences
+## Conferences
 
 1. Yun-Chia Liang, Yona Maimury, and **Josue Rodolfo Cuevas Juarez**, “Calibration of IoT Sensors Using Machine Learning Approaches,” Proceedings of the 4th International Conference on Ambient Intelligence & Ergonomics in Asia (AmI&E 2019), October 4-6, 2019, Taoyuan, Taiwan.
 2. Yun-Chia Liang, Aldy Gunawan, Hui-Chih Chen, **Josue Rodolfo Cuevas Juarez**, “Solving Tourist Trip Design Problems Using a Virus Optimization Algorithm,” Proceedings of the 2017 Multidisciplinary Scheduling Conference (MISTA 2017), December 5-8, 2017, Kuala Lumpur, Malaysia, pp. 384-388(ID 47).
