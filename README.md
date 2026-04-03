@@ -6,9 +6,9 @@ https://scholar.google.com/citations?user=tgxwttEAAAAJ&hl=en&oi=ao
 
 ## Patents
 
-1. Visual Semantic Search Algorithm (2025): https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2022-508496/239ADE52030EFD8F29F6C308D8565B92E8550B588F61BAE8E9D431D4100612F3/10/ja (Japan: JPWO2023112199A5, USA: 12548289/WO2023058233A1/WO2023112199A1, EU: EP4187485A4/EP4220551A1)
-2. Server and method for facilitating processing order for on-demand service (2024): https://patents.google.com/patent/WO2025193158A1 (WO2025193158A1)
-3. Information processing device, information processing method, and program (2023): https://patents.google.com/patent/WO2023112199A1 (WO2023112199A1)
+1. **Visual Semantic Search Algorithm (2025)**: https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2022-508496/239ADE52030EFD8F29F6C308D8565B92E8550B588F61BAE8E9D431D4100612F3/10/ja (Japan: JPWO2023112199A5, USA: 12548289/WO2023058233A1, EU: EP4187485A4/EP4220551A1)
+2. **Server and method for facilitating processing order for on-demand service (2024)**: https://patents.google.com/patent/WO2025193158A1 (WO2025193158A1)
+3. **Information processing device, information processing method, and program (2023)**: https://patents.google.com/patent/WO2023112199A1 (WO2023112199A1)
 
 ## Journal Papers
 
